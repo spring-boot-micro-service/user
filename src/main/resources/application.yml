@@ -1,0 +1,10 @@
+server:
+  port: 3001
+  
+spring:
+  application:
+    name: user-service
+    
+eureka:
+  instance:
+    hostname: localhost
